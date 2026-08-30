@@ -1,0 +1,1 @@
+Acest repository contine documentatia completa a lucrarii de licenta cu titlul "ANALIZA PREDICTIVĂ A SCORURILOR DE FILM BAZATĂ PE PROCESAREA POSTERELOR ȘI A METADATELOR CINEMATOGRAFICE" (fisier PDF atasat).
